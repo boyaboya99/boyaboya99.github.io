@@ -3,58 +3,29 @@
     <title>boyaboya99</title>
     <link href="https://boyaboya99.github.io/feed.xml" rel="self" />
     <link href="https://boyaboya99.github.io" />
-    <updated>2025-08-12T20:10:39+08:00</updated>
+    <updated>2025-08-12T20:37:48+08:00</updated>
     <author>
         <name>boyaboya99</name>
     </author>
     <id>https://boyaboya99.github.io</id>
 
     <entry>
-        <title>123</title>
+        <title>20250812</title>
         <author>
             <name>boyaboya99</name>
         </author>
-        <link href="https://boyaboya99.github.io/123.html"/>
-        <id>https://boyaboya99.github.io/123.html</id>
+        <link href="https://boyaboya99.github.io/20250812.html"/>
+        <id>https://boyaboya99.github.io/20250812.html</id>
 
-        <updated>2025-08-12T20:10:39+08:00</updated>
+        <updated>2025-08-12T20:37:48+08:00</updated>
             <summary>
                 <![CDATA[
-                    111111111111111111111111111111111111111 2222222222222222222222222222222222222
+                    我是boya
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>111111111111111111111111111111111111111</p>
-<p>2222222222222222222222222222222222222</p>
-<p> </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>day</title>
-        <author>
-            <name>boyaboya99</name>
-        </author>
-        <link href="https://boyaboya99.github.io/day.html"/>
-        <id>https://boyaboya99.github.io/day.html</id>
-
-        <updated>2025-08-12T17:39:29+08:00</updated>
-            <summary>
-                <![CDATA[
-                    123
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    123
-  </p>
-
-  <p>
-    
-  </p>
+                <p>我是boya</p>
             ]]>
         </content>
     </entry>
