@@ -5,37 +5,10 @@
     "home_page_url": "https://boyaboya99.github.io",
     "feed_url": "https://boyaboya99.github.io/feed.json",
     "user_comment": "",
+    "icon": "https://boyaboya99.github.io/media/website/Weixin-Image_20250812212040.jpg",
     "author": {
         "name": "boyaboya99"
     },
     "items": [
-        {
-            "id": "https://boyaboya99.github.io/25.html",
-            "url": "https://boyaboya99.github.io/25.html",
-            "title": "25",
-            "summary": "的得到的",
-            "content_html": "\n  <p>\n    的得到的\n  </p>",
-            "author": {
-                "name": "boyaboya99"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-08-12T20:51:53+08:00",
-            "date_modified": "2025-08-12T20:51:53+08:00"
-        },
-        {
-            "id": "https://boyaboya99.github.io/20250812.html",
-            "url": "https://boyaboya99.github.io/20250812.html",
-            "title": "20250812",
-            "summary": "我是boya",
-            "content_html": "<p>我是boya</p>",
-            "author": {
-                "name": "boyaboya99"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-08-12T20:37:48+08:00",
-            "date_modified": "2025-08-12T20:37:48+08:00"
-        }
     ]
 }

@@ -3,53 +3,10 @@
     <title>boyaboya99</title>
     <link href="https://boyaboya99.github.io/feed.xml" rel="self" />
     <link href="https://boyaboya99.github.io" />
-    <updated>2025-08-12T20:51:53+08:00</updated>
+    <updated>1970-01-01T08:00:00+08:00</updated>
     <author>
         <name>boyaboya99</name>
     </author>
     <id>https://boyaboya99.github.io</id>
 
-    <entry>
-        <title>25</title>
-        <author>
-            <name>boyaboya99</name>
-        </author>
-        <link href="https://boyaboya99.github.io/25.html"/>
-        <id>https://boyaboya99.github.io/25.html</id>
-
-        <updated>2025-08-12T20:51:53+08:00</updated>
-            <summary>
-                <![CDATA[
-                    的得到的
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                
-  <p>
-    的得到的
-  </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>20250812</title>
-        <author>
-            <name>boyaboya99</name>
-        </author>
-        <link href="https://boyaboya99.github.io/20250812.html"/>
-        <id>https://boyaboya99.github.io/20250812.html</id>
-
-        <updated>2025-08-12T20:37:48+08:00</updated>
-            <summary>
-                <![CDATA[
-                    我是boya
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>我是boya</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
