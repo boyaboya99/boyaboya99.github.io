@@ -3,10 +3,31 @@
     <title>boyaboya99</title>
     <link href="https://boyaboya99.github.io/feed.xml" rel="self" />
     <link href="https://boyaboya99.github.io" />
-    <updated>1970-01-01T08:00:00+08:00</updated>
+    <updated>2025-08-12T22:05:19+08:00</updated>
     <author>
         <name>boyaboya99</name>
     </author>
     <id>https://boyaboya99.github.io</id>
 
+    <entry>
+        <title>冈仁波齐</title>
+        <author>
+            <name>boyaboya99</name>
+        </author>
+        <link href="https://boyaboya99.github.io/gang-ren-bo-qi.html"/>
+        <id>https://boyaboya99.github.io/gang-ren-bo-qi.html</id>
+
+        <updated>2025-08-12T22:05:19+08:00</updated>
+            <summary>
+                <![CDATA[
+                    回北京的火车上又刷了一遍电影《冈仁波齐》，内心还是很触动。
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>回北京的火车上又刷了一遍电影《冈仁波齐》，内心还是很触动。</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
 </feed>

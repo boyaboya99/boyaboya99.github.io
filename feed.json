@@ -10,5 +10,19 @@
         "name": "boyaboya99"
     },
     "items": [
+        {
+            "id": "https://boyaboya99.github.io/gang-ren-bo-qi.html",
+            "url": "https://boyaboya99.github.io/gang-ren-bo-qi.html",
+            "title": "冈仁波齐",
+            "summary": "回北京的火车上又刷了一遍电影《冈仁波齐》，内心还是很触动。",
+            "content_html": "<p>回北京的火车上又刷了一遍电影《冈仁波齐》，内心还是很触动。</p>\n<p> </p>",
+            "author": {
+                "name": "boyaboya99"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-08-12T22:05:19+08:00",
+            "date_modified": "2025-08-12T22:05:19+08:00"
+        }
     ]
 }
